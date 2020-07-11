@@ -1,0 +1,8 @@
+.popup__message {
+  min-height: 15px;
+  display: inline-block;
+  margin-bottom: 15px;
+  font-size: 12px;
+  line-height: 15px;
+  color: #FF0000;
+}

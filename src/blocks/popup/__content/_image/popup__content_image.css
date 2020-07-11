@@ -1,0 +1,8 @@
+.popup__content.popup__content_image {
+  width: unset;
+  min-height: unset;
+  background-color: unset;
+  border-radius: unset;
+  box-sizing: unset;
+  padding: unset;
+}
