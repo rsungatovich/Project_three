@@ -52,7 +52,7 @@ import {FormValidator} from "./FormValidator.js";
     _buttonIsActive: 'popup__button_active',
   }
 
-  const serverUrl = NODE_ENV === 'development' ? 'http://praktikum.tk' : 'https://praktikum.tk';
+  const serverUrl = NODE_ENV === 'development' ? 'http://nomoreparties.co' : 'https://nomoreparties.co';
 
   const apiData = {
     baseUrl: `${serverUrl}/cohort11`,
