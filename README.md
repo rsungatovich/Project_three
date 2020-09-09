@@ -38,8 +38,8 @@ ES5+, DOM, CSS3, HTML5, GIT, WebPack, OOP, BEM.
 - [Cross-Env](https://www.npmjs.com/package/cross-env)
 
 ## Инструкции по запуску:
-- Склонировать репозиторий с github- "git clone ...https/ssh"
-- Установить зависимости при помощи npm - "npm i ...package"
+- Склонировать репозиторий с github- "git clone"
+- Установить зависимости при помощи npm - "npm i"
 - Запустить в development режиме - "npm run dev"
 - Запустить сборку production-билда - "npm run build"
 - Разместить production-билд на github pages - "npm run deploy"
